@@ -6,7 +6,7 @@ Our results indicate that Cross Entropy can result in fairly paradoxical results
 ## Citation
 If you found our work useful, please cite our papers:
 
-[Soft metrics for evaluation with disagreements: an assessment]([https://www.sciencedirect.com/science/article/pii/S030645732300211X](https://aclanthology.org/2024.nlperspectives-1.9.pdf))
+[Soft metrics for evaluation with disagreements: an assessment](https://aclanthology.org/2024.nlperspectives-1.9.pdf)
 
 ```
 @inproceedings{rizzi2024soft,
